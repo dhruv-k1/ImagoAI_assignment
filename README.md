@@ -19,7 +19,8 @@ This repository contains a Jupyter Notebook focused on exploratory data analysis
 📦 ImagoAI_assignment
 ├── 📄 assignment_final.ipynb   # Jupyter Notebook with data analysis and ML models
 ├── 📄 requirements.txt         # Dependencies required to run the notebook
-└── 📄 data.csv                 # Dataset used for analysis
+├── 📄 data.csv                 # Dataset used for analysis
+└── 📄 report.md                # Project Report
 ```
 
 
