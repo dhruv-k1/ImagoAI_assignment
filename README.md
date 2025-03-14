@@ -43,7 +43,7 @@ The dataset used in this project contains structured data with multiple features
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repo-name
+   cd ImagoAI_assignment
    ```
 3. Install required dependencies:
    ```sh
